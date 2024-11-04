@@ -9,6 +9,9 @@ The chatbot processes the question, matches it to the most appropriate medical r
 ## Dataset
 The dataset used in this project is the [ChatDoctor](https://huggingface.co/datasets/wangrongsheng/HealthCareMagic-100k-en?row=35) dataset, which contains medical queries and their corresponding responses. This dataset contains 100,000 rows but just the first 15,000 were selected for this project.
 
+
+Source: Lavita - ChatDoctor-HealthCareMagic-100k from Hugging Face; Size: 100,000 medical queries and responses Subset: The first 15,000 rows are selected for this project
+
 ## Screenshots
 ![Alternate Text](images/query.png)
 
